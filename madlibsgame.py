@@ -1,0 +1,13 @@
+print("Kelinci kecil berwarna ")
+kata1 = input("Masukan kata 1 :")
+print(" dengan ceria")
+kata2 = input("Masukan kata 2  :")
+print("Teruslah menuntut ")
+kata3 = input("Masukan kata 3  :")
+print("Agar bahagia di ")
+kata4 = input("Masukan kata 4  :")
+
+print("Kelinci kecil berwarna " + kata1)
+print(kata2 +" dengan ceria")
+print("Teruslah menuntut " + kata3)
+print("Agar bahagia di " + kata4)
