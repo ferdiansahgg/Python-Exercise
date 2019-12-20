@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77e85c28-e657-408f-b5fd-9484916df29f" name="Default Changelist" comment="" />
+    <list default="true" id="77e85c28-e657-408f-b5fd-9484916df29f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buildingabettercalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifstatmentsandcomprahison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whileloop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ifstatments.py" beforeDir="false" afterPath="$PROJECT_DIR$/ifstatments.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UQslfzf8qXFjoskUC7z8utPaWT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,8 +34,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.returnstatment">
-    <configuration name="functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.whileloop">
+    <configuration name="Dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="latihan1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -37,7 +47,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionaries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -46,7 +56,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="buildingabettercalculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="latihan1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +68,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buildingabettercalculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listfunctions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ifstatments" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="latihan1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +89,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listfunctions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ifstatments.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="returnstatment" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ifstatmentsandcomprahison" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="latihan1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/returnstatment.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ifstatmentsandcomprahison.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tuples" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="whileloop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="latihan1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/whileloop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.returnstatment" />
-        <item itemvalue="Python.functions" />
-        <item itemvalue="Python.tuples" />
-        <item itemvalue="Python.listfunctions" />
-        <item itemvalue="Python.list" />
+        <item itemvalue="Python.whileloop" />
+        <item itemvalue="Python.Dictionaries" />
+        <item itemvalue="Python.buildingabettercalculator" />
+        <item itemvalue="Python.ifstatmentsandcomprahison" />
+        <item itemvalue="Python.ifstatments" />
       </list>
     </recent_temporary>
   </component>
@@ -170,21 +180,37 @@
       <screen x="0" y="27" width="1024" height="741" />
     </state>
     <state x="295" y="155" width="424" height="484" key="FileChooserDialogImpl/0.27.1024.741/0.27.1024.741@0.27.1024.741" timestamp="1575515917278" />
-    <state width="981" height="180" key="GridCell.Tab.0.bottom" timestamp="1575964346077">
+    <state width="978" height="130" key="GridCell.Tab.0.bottom" timestamp="1576815614259">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="981" height="180" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1575964346077" />
-    <state width="981" height="180" key="GridCell.Tab.0.center" timestamp="1575964346072">
+    <state width="978" height="130" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1576815614259" />
+    <state width="978" height="130" key="GridCell.Tab.0.center" timestamp="1576815614259">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="981" height="180" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1575964346072" />
-    <state width="981" height="180" key="GridCell.Tab.0.left" timestamp="1575964346071">
+    <state width="978" height="130" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1576815614259" />
+    <state width="978" height="130" key="GridCell.Tab.0.left" timestamp="1576815614259">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="981" height="180" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1575964346071" />
-    <state width="981" height="180" key="GridCell.Tab.0.right" timestamp="1575964346075">
+    <state width="978" height="130" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1576815614259" />
+    <state width="978" height="130" key="GridCell.Tab.0.right" timestamp="1576815614259">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="981" height="180" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1575964346075" />
+    <state width="978" height="130" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1576815614259" />
+    <state width="981" height="162" key="GridCell.Tab.1.bottom" timestamp="1576814158871">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="981" height="162" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1576814158871" />
+    <state width="981" height="162" key="GridCell.Tab.1.center" timestamp="1576814158871">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="981" height="162" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1576814158871" />
+    <state width="981" height="162" key="GridCell.Tab.1.left" timestamp="1576814158870">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="981" height="162" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1576814158870" />
+    <state width="981" height="162" key="GridCell.Tab.1.right" timestamp="1576814158871">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="981" height="162" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1576814158871" />
   </component>
 </project>
